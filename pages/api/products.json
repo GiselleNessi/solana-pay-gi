@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Future Computer",
+    "price": "0.09",
+    "description": "One of a kind",
+    "image_url": "https://i.imgur.com/f2PSWGx.jpg",
+    "filename": "compu.zip",
+    "hash": "QmbcJh2FGdkeu9QbBdEwrtNHrXfPTuUQJttNQEUGp4WhQh",
+    "seller": "8tQYzY6mjSHAqmgUoyTsgceJFdbzJQxYB4YT8iwoDuzY"
+  },
+  {
+    "id": 2,
+    "name": "Rare Nintendo",
+    "price": "0.09",
+    "image_url": "https://i.imgur.com/YQbNhsv.jpg",
+    "description": "Keep it forever",
+    "filename": "nintendo.zip",
+    "hash": "QmedHQr4wXGxXbvfksYANmFJTxv1HLvMRmDKs1uTYCv5SJ",
+    "seller": "D8xjDA4e5YtHkFuYy185NFhFgfTei5t8NRbFvUguHe1z"
+  }
+]
